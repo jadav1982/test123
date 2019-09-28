@@ -11,6 +11,10 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.Read();
+            Console.Read();
+            Console.Read();
+            Console.Read();
+            Console.Read();
         }
     }
 }
